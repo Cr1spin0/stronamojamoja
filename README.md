@@ -1,1 +1,1 @@
-# stronamojamoja
+# stronamoja
