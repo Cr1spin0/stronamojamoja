@@ -403,5 +403,7 @@ p{
     padding: 0;
     font-weight: bold;
 }
-
+html {
+  background-color: #ffffff;
+}
 
